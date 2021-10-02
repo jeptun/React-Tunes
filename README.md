@@ -70,4 +70,4 @@ Josef Dosoudil  - jeptun@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/screenshot.PNG
+[product-screenshot]: images/img.PNG
