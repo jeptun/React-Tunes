@@ -23,7 +23,6 @@
 <!-- ABOUT THE PROJECT -->
 ## O projektu
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Tato Webová aplikace je vytovřena pomoci tutoriálu na [learn2code.cz](https://learn2code.cz/aplikace/skupiny#/react/chapters/01-react). Jedná se o hudební vyhledávání písničky pomoci [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api), která ukáže 5 Songu a pustí 30 vteřinovou ukázku.
 
@@ -71,4 +70,4 @@ Josef Dosoudil  - jeptun@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.PNG
