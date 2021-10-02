@@ -15,7 +15,7 @@
     <br />
     <br />
     .
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://react-tunes.netlify.app/">View Demo</a>
     .
   </p>
 </div>
@@ -64,13 +64,9 @@ V aplikaci je použito.
 <!-- CONTACT -->
 ## Contact
 
-Josef Dosoudil - [@your_twitter](https://twitter.com/your_username) - jeptun@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Josef Dosoudil  - jeptun@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-## Zdroje
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
