@@ -1,0 +1,14 @@
+.tunes-list {
+  margin: 3em 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.tunes-list li {
+  margin-bottom: 3em;
+}
+
+.tunes-list li:last-child article {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=TunesList.css.map */
