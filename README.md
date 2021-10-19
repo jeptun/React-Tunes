@@ -24,7 +24,7 @@
 ## O projektu
 [![Product Name Screen Shot][product-screenshot]](https://react-tunes.netlify.app/)
 
-Tato Webová aplikace je vytovřena pomoci tutoriálu na [learn2code.cz](https://learn2code.cz/aplikace/skupiny#/react/chapters/01-react). Jedná se o hudební vyhledávání písničky pomoci [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api), která ukáže 5 Songu a pustí 30 vteřinovou ukázku.
+Jednoduchá hudební aplikace vytvořená pomocí React! Jedná se o vyhledávač hudby pomocí [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api), který ukáže 5 písniček a pustí 30vteřinovou ukázku. Vytovřeno pomoci tutoriálu na [learn2code.cz](https://learn2code.cz/aplikace/skupiny#/react/chapters/01-react).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
